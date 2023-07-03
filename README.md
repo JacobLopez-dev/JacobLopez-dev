@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_jacobthedev" target="blank"><img src="https://img.shields.io/twitter/follow/_jacobthedev?logo=twitter&style=for-the-badge" alt="_jacobthedev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [jacoblopez.dev](jacoblopez.dev)
+- 👨‍💻 All of my projects are available at [jacoblopez.dev](https://jacoblopez.dev/)
 
 - 📫 How to reach me **Jacoblopez.dev@gmail.com**
 
